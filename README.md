@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IdongesitOffiong
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL, python packages for data analysis and power bi
+- 🌱 I’m proficient in SQL, python and power bi
 - 💞️ I’m looking to collaborate on data analytics and deployment
 - 📫 You can reach me on idongesitoffiong@gmail.com
 
